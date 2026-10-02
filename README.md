@@ -36,4 +36,3 @@
 
 9. กลับมาที่หน้าระบบเดิม แล้วเปิด Console นำโค้ดที่เตรียมเสร็จแล้วจาก **ข้อ 8** มาวาง แล้วกด `Enter`
 
-   ![image](https://github.com/user-attachments/assets/4f5b40f2-f807-4665-b6d0-8439ce3d2bd4)
